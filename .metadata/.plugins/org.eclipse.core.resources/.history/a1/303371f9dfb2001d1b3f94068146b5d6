@@ -1,0 +1,5 @@
+package com.prakash.rest;
+
+public class VenderRestController {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.prakash.controller&apos; to &apos;com.prakash.consumer&apos;&#x0D;&#x0A;- Original project: &apos;SpringCloudLBC-CompanyService&apos;&#x0D;&#x0A;- Original element: &apos;SpringCloudLBC-CompanyService/src/main/java/com.prakash.controller&apos;&#x0D;&#x0A;- Renamed element: &apos;SpringCloudLBC-CompanyService/src/main/java/com.prakash.consumer&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.prakash.controller&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.prakash.controller" name="com.prakash.consumer" qualified="false" references="true" stamp="1677075164517" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.prakash.consumer.EmpRestController&apos; to &apos;EmpRestConsumer&apos;&#x0D;&#x0A;- Original project: &apos;SpringCloudDC-DeptApp&apos;&#x0D;&#x0A;- Original element: &apos;com.prakash.consumer.EmpRestController&apos;&#x0D;&#x0A;- Renamed element: &apos;com.prakash.consumer.EmpRestConsumer&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;EmpRestController&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.prakash.consumer{EmpRestController.java[EmpRestController" matchStrategy="1" name="EmpRestConsumer" qualified="false" references="true" similarDeclarations="false" stamp="1677046391163" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,13 @@
+package com.prakash;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringCloudFcEurekaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringCloudFcEurekaApplication.class, args);
+	}
+
+}
